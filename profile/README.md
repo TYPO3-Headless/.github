@@ -54,7 +54,7 @@ Check the links below if you want to get started with TYPO3 Headless or get help
 
 TYPO3 Headless is brought to you by [Macopedia](https://macopedia.com/?utm_source=GitHub) with a big support of the community. We provide recommendations for Headless CMS software and deliver services tailored to business needs: TYPO3 Headless implementation, consulting, technical training, support and reviews. 
 
-[Work with us!](https://macopedia.com/products/typo3-headless-and-pwa?utm_source=GitHub)
+[Work with us!](https://macopedia.com/products/t3-headless?utm_source=GitHub)
 
 ## BECOME A CONTRIBUTOR
 
