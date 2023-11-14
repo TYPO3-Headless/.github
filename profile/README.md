@@ -33,6 +33,11 @@ Dive into our comprehensive documentation and tutorials to begin your TYPO3 Head
 - [Infrastructure Demo (DDEV)](https://github.com/TYPO3-Headless/pwa-demo): Test drive TYPO3 Headless with our practical, hands-on demo.
 - [Live Solution Showcase](https://demo.t3pwa.com/): Experience the power and flexibility of TYPO3 Headless in action.
 
+## How to start with TYPO3 Headless video tutorial
+
+Whether you are a developer, content manager, or a tech enthusiast, this tutorial is tailored to provide a comprehensive introduction to TYPO3 Headless, helping you to get started on your journey with confidence.
+[![video still](https://i.ytimg.com/vi/7MOwugAyHkY/hq720.jpg)](https://www.youtube.com/watch?v=7MOwugAyHkY)
+
 ## The Pioneers Behind TYPO3 Headless
 
 [Macopedia](https://macopedia.com/?utm_source=GitHub), in collaboration with a passionate community, proudly presents TYPO3 Headless. We specialize in Headless CMS solutions, offering services ranging from implementation and consulting to technical training and support.
