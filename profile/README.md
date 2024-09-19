@@ -28,7 +28,7 @@ We're eager to see how TYPO3 Headless transforms your web projects. Share your s
 
 Dive into our comprehensive documentation and tutorials to begin your TYPO3 Headless adventure:
 
-- [Frontend Integration Guide](https://typo3-headless.github.io/nuxt-typo3/): Explore how to connect your frontend seamlessly with TYPO3 Headless.
+- [Frontend Integration Guide](https://t3headless.macopedia.io/nuxt-typo3/introduction): Explore how to connect your frontend seamlessly with TYPO3 Headless.
 - [Backend Configuration Manual](https://docs.typo3.org/p/friendsoftypo3/headless/main/en-us/Index.html): Tailor your TYPO3 backend to fit the headless model.
 - [Infrastructure Demo (DDEV)](https://github.com/TYPO3-Headless/pwa-demo): Test drive TYPO3 Headless with our practical, hands-on demo.
 - [Live Solution Showcase](https://demo.t3pwa.com/): Experience the power and flexibility of TYPO3 Headless in action.
